@@ -1,0 +1,2 @@
+CS,Intro to java,250,2019Spring,4,A
+CS,Database concepts,450,2020Fall,3,B+
